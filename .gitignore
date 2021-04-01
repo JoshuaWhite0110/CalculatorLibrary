@@ -2,3 +2,6 @@
 .settings
 salesforce.schema
 Referenced Packages
+.coverage
+__pycache__/
+.pytest_cache/
